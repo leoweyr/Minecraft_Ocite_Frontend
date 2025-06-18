@@ -27,7 +27,8 @@
     "rimraf": "^6.0.1",
     "typescript": "^5.7.3",
     "@levimc-lse/types": "^2.16.3",
-    "@levimc-lse/scaffold": "^0.2.2"
+    "@levimc-lse/scaffold": "^0.2.2",
+    "@types/node": "^24.0.3"
   },
   "dependencies": {
     "@levimc-lse/interface-api": "^0.1.0",
